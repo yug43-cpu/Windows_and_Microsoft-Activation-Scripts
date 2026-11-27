@@ -66,4 +66,4 @@
 ---
 
 Latest Version: 3.12  
-Release date: 17-sept-2026
+Release date: 11-nov-2026
